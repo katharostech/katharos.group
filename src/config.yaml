@@ -1,0 +1,24 @@
+title: Katharos Group
+description: >
+  Hello world.
+
+# Not used yet
+# heroText: Pure Innovation
+
+sections:
+  - type: content
+    title: Katharos Group
+    lead: >
+      We want to make <span class="text-primary">awesome stuff</span>.
+  - type: compatibility
+    id: projects
+    title: Facets
+    lead: >
+      There's a lot of stuff we want to get into at some point, but for now we're
+      focused on technology at
+      <a href="https://katharostech.com" class="text-primary">Katharos Technology</a>.
+    lists:
+      - items:
+          - icon: logomark
+            title: Katharos Technology
+            url: https://katharostech.com
